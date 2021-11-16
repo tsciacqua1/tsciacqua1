@@ -1,6 +1,4 @@
-### Hello, I am Tomas Sciacqua and I am a Full Stack Developer. 
-### Welcome to my Github profile! 👋
-
+### Hello, I am Tomas Sciacqua. Welcome to my Github profile! 👋
 
 - If you want to reach me, just dive onto my e-mail: tomisciacqua@gmail.com
 - I am a creative person, with a great capacity for team work and with entrepreneurial spirit. I am eager to find a job and learn more about this world that I am passionate about.
