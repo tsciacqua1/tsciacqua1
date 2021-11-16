@@ -1,6 +1,7 @@
 ### Hello, I am Tomas Sciacqua. Welcome to my Github profile! 👋
 
 - If you want to reach me, just dive onto my e-mail: tomisciacqua@gmail.com
+- Or if you prefer to call me, here is my phone number: +543424348834
 - I am a creative person, with a great capacity for team work and with entrepreneurial spirit. I am eager to find a job and learn more about this world that I am passionate about.
 
 </div>
