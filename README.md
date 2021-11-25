@@ -1,29 +1,51 @@
-### Hello, I am Tomas Sciacqua. Welcome to my Github profile! 👋
+<h1 align="center">Hi 👋, I'm Tomas Sciacqua</h1>
+<h3 align="center">Hi there!! Welcome to my GitHub profile</h3>
 
-- If you want to reach me, just dive onto my e-mail: tomisciacqua@gmail.com
-- Or if you prefer to call me, here is my phone number: +543424348834
-- I am a creative person, with a great capacity for team work and with entrepreneurial spirit. I am eager to find a job and learn more about this world that I am passionate about.
+```javascript
+const aboutMe = {
+   pronouns: "he" | "him",
+   code: [Javascript, Typescript, HTML, CSS, Java],
+   technologies: {
+      frontEnd: {
+         js: ["React", "Redux", "React Native"],
+         css: ["Bootstrap", "Material UI"]
+      },
+      backEnd: {
+         js: ["Node", "Express"]
+      },
+      databases: ["PostgreSQL", "MongoDB"],
+   }
+};
+```
 
-</div>
-<div align="center">
-  </div>
-<div align="center"><h3>I'm a Fullstack Developer</h3></div>
+- 📫 How to reach me: [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tomas-sciacqua) [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:tomisciacqua@gmail.com)
 
-<div align="center"><h1>Coding languages and tools I know:</h1></div>
-<p align="center">
-  <img width="5%" align="center" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
-  <img width="5%" align="center" height="45" src="https://cdn.worldvectorlogo.com/logos/redux.svg">
-  <img width="5%" align="center" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
-  <img width="5%" align="center" height="50px" src="https://github.com/WanCirone/wancirone/blob/main/logos/expressjs.svg">
-  <img width="5.5%" align="center" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
-  <img width="6%" align="center" src="https://img1.freepng.es/20180816/ql/kisspng-cascading-style-sheets-logo-clip-art-css3-html-5b7617f6479ca3.8709748315344660382933.jpg">
-  <img width="5%" align="center" src="https://github.com/WanCirone/wancirone/blob/main/logos/javascript-1.svg">
-  <img width="5%" align="center" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg">
-  <img width="5%" align="center" src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg">
-  <img width="5%" align="center" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
-  <img width="5%" align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+- 📫 Or if you prefer to call me, here is my phone number: +543424348834
+
+
+#### :computer: Programming languages and tools: 
+
+<p>
+
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+<code><img width="8%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-ar21.svg"></code>
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+<code><img width="12%" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo-title-light.png"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
+ <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<br />
+
 </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mpissoni24&show_icons=true&theme=dark&locale=en&layout=compact" alt="tsc" /></p>
 
-
-<p align="center"> React | Redux | Node.js | Express | HTML5 | CSS3 | Javascript | Postgres | Sequelize | Postman | Git </p>
