@@ -24,6 +24,8 @@ const aboutMe = {
 
 - 📫 Or if you prefer to call me, here is my phone number: +543424348834
 
+- 📫 My email: tomisciacqua@gmail.com
+
 
 #### :computer: Programming languages and tools: 
 
