@@ -1,7 +1,7 @@
 <img src="https://github.com/tsciacqua1/tsciacqua1/blob/main/hi.svg" atl="hi"/>
 
 <h1 align="center">Hi 👋, I'm Tomas Sciacqua</h1>
-<h3 align="center">Hi there!! Welcome to my GitHub profile</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 ```javascript
 const aboutMe = {
