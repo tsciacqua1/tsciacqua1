@@ -1,5 +1,3 @@
-<img src="https://github.com/tsciacqua1/tsciacqua1/blob/main/hi.svg" atl="hi"/>
-
 <h1 align="center">Hi 👋, I'm Tomas Sciacqua</h1>
 <h3 align="center">Full Stack Developer</h3>
 
@@ -13,13 +11,18 @@
 
 ### Videogames E-commerce
 
+Technologies used:
+
+- Back-end:
+  Javascript, Node, Express, Auth0, PostgreSQL (Sequelize), PayPal API, Algolia
+- Front-end:
+  Javascript, React, Redux, Styled Components, CSS
+
 <img src="/images/videogames-ecommerce/1.png" atl="1"/>
-<!-- <img src="https://github.com/tsciacqua1/tsciacqua1/blob/main/hi.svg" atl="2"/>
-<img src="https://github.com/tsciacqua1/tsciacqua1/blob/main/hi.svg" atl="3"/>
-<img src="https://github.com/tsciacqua1/tsciacqua1/blob/main/hi.svg" atl="4"/>
-<img src="https://github.com/tsciacqua1/tsciacqua1/blob/main/hi.svg" atl="5"/>
-<img src="https://github.com/tsciacqua1/tsciacqua1/blob/main/hi.svg" atl="6"/>
-<img src="https://github.com/tsciacqua1/tsciacqua1/blob/main/hi.svg" atl="7"/>
-<img src="https://github.com/tsciacqua1/tsciacqua1/blob/main/hi.svg" atl="8"/>
-<img src="https://github.com/tsciacqua1/tsciacqua1/blob/main/hi.svg" atl="9"/>
-<img src="https://github.com/tsciacqua1/tsciacqua1/blob/main/hi.svg" atl="10"/> -->
+<img src="/images/videogames-ecommerce/2.png" atl="2"/>
+<img src="/images/videogames-ecommerce/3.png" atl="3"/>
+<img src="/images/videogames-ecommerce/4.png" atl="4"/>
+<img src="/images/videogames-ecommerce/5.png" atl="5"/>
+<img src="/images/videogames-ecommerce/6.png" atl="6"/>
+<img src="/images/videogames-ecommerce/7.png" atl="7"/>
+<img src="/images/videogames-ecommerce/8.png" atl="8"/>
