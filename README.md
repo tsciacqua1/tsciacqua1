@@ -33,7 +33,7 @@ Technologies used:
 
 <br />
 
-### Thumbnails Generator
+# Thumbnails Generator
 
 https://github.com/tsciacqua1/proof-of-concept
 
