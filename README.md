@@ -20,14 +20,14 @@ Technologies used:
 - Front-end:
   Javascript, React, Redux, Styled Components, CSS
 
-<img src="/images/videogames-ecommerce/1.png" atl="1"/>
-<img src="/images/videogames-ecommerce/2.png" atl="2"/>
-<img src="/images/videogames-ecommerce/3.png" atl="3"/>
-<img src="/images/videogames-ecommerce/4.png" atl="4"/>
-<img src="/images/videogames-ecommerce/5.png" atl="5"/>
-<img src="/images/videogames-ecommerce/6.png" atl="6"/>
-<img src="/images/videogames-ecommerce/7.png" atl="7"/>
-<img src="/images/videogames-ecommerce/8.png" atl="8"/>
+<img src="/images/videogames-ecommerce/1.png" alt="1"/>
+<img src="/images/videogames-ecommerce/2.png" alt="2"/>
+<img src="/images/videogames-ecommerce/3.png" alt="3"/>
+<img src="/images/videogames-ecommerce/4.png" alt="4"/>
+<img src="/images/videogames-ecommerce/5.png" alt="5"/>
+<img src="/images/videogames-ecommerce/6.png" alt="6"/>
+<img src="/images/videogames-ecommerce/7.png" alt="7"/>
+<img src="/images/videogames-ecommerce/8.png" alt="8"/>
 
 ### Thumbnails Generator
 
@@ -40,11 +40,8 @@ Technologies used:
 - Front-end:
   Javascript, React, Redux, SASS, MaterialUI
 
-<img src="/images/videogames-ecommerce/1.png" atl="1"/>
-<img src="/images/videogames-ecommerce/2.png" atl="2"/>
-<img src="/images/videogames-ecommerce/3.png" atl="3"/>
-<img src="/images/videogames-ecommerce/4.png" atl="4"/>
-<img src="/images/videogames-ecommerce/5.png" atl="5"/>
-<img src="/images/videogames-ecommerce/6.png" atl="6"/>
-<img src="/images/videogames-ecommerce/7.png" atl="7"/>
-<img src="/images/videogames-ecommerce/8.png" atl="8"/>
+<img src="/images/thumbnails-generator/1.png" alt="1"/>
+<img src="/images/thumbnails-generator/2.png" alt="2"/>
+<img src="/images/thumbnails-generator/3.png" alt="3"/>
+<img src="/images/thumbnails-generator/4.png" alt="4"/>
+<img src="/images/thumbnails-generator/5.png" alt="5"/>
