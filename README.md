@@ -9,29 +9,17 @@
 
 - 📫 My email: tomisciacqua@gmail.com
 
+## My Projects
 
-#### :computer: Programming languages and tools: 
+### Videogames E-commerce
 
-<p>
-
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-<code><img width="8%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-<code><img width="12%" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo-title-light.png"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
- <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-<br />
-
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mpissoni24&show_icons=true&theme=dark&locale=en&layout=compact" alt="tsc" /></p>
-
+<img src="/images/videogames-ecommerce/1.png" atl="1"/>
+<!-- <img src="https://github.com/tsciacqua1/tsciacqua1/blob/main/hi.svg" atl="2"/>
+<img src="https://github.com/tsciacqua1/tsciacqua1/blob/main/hi.svg" atl="3"/>
+<img src="https://github.com/tsciacqua1/tsciacqua1/blob/main/hi.svg" atl="4"/>
+<img src="https://github.com/tsciacqua1/tsciacqua1/blob/main/hi.svg" atl="5"/>
+<img src="https://github.com/tsciacqua1/tsciacqua1/blob/main/hi.svg" atl="6"/>
+<img src="https://github.com/tsciacqua1/tsciacqua1/blob/main/hi.svg" atl="7"/>
+<img src="https://github.com/tsciacqua1/tsciacqua1/blob/main/hi.svg" atl="8"/>
+<img src="https://github.com/tsciacqua1/tsciacqua1/blob/main/hi.svg" atl="9"/>
+<img src="https://github.com/tsciacqua1/tsciacqua1/blob/main/hi.svg" atl="10"/> -->
