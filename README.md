@@ -29,6 +29,8 @@ Technologies used:
 <img src="/images/videogames-ecommerce/7.png" alt="7"/>
 <img src="/images/videogames-ecommerce/8.png" alt="8"/>
 
+<br />
+
 ### Thumbnails Generator
 
 This is a serverless application that generates thumbnails from a source image. Also, this project focuses on the back-end, so don't pay attention carefully to the front-end.
