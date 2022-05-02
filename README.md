@@ -11,12 +11,34 @@
 
 ### Videogames E-commerce
 
+This is the final project made in Henry's bootcamp. It's an videogames e-commerce where you can purchase any videogame you want for PC.
+
 Technologies used:
 
 - Back-end:
   Javascript, Node, Express, Auth0, PostgreSQL (Sequelize), PayPal API, Algolia
 - Front-end:
   Javascript, React, Redux, Styled Components, CSS
+
+<img src="/images/videogames-ecommerce/1.png" atl="1"/>
+<img src="/images/videogames-ecommerce/2.png" atl="2"/>
+<img src="/images/videogames-ecommerce/3.png" atl="3"/>
+<img src="/images/videogames-ecommerce/4.png" atl="4"/>
+<img src="/images/videogames-ecommerce/5.png" atl="5"/>
+<img src="/images/videogames-ecommerce/6.png" atl="6"/>
+<img src="/images/videogames-ecommerce/7.png" atl="7"/>
+<img src="/images/videogames-ecommerce/8.png" atl="8"/>
+
+### Thumbnails Generator
+
+This is a serverless application that generates thumbnails from a source image. Also, this project focuses on the back-end, so don't pay attention carefully to the front-end.
+
+Technologies used:
+
+- Back-end:
+  Javascript, Serverless Framework, Node, Express, JWT, Passport, AWS (S3, DynamoDB, API Gateway, Amazon Lambda)
+- Front-end:
+  Javascript, React, Redux, SASS, MaterialUI
 
 <img src="/images/videogames-ecommerce/1.png" atl="1"/>
 <img src="/images/videogames-ecommerce/2.png" atl="2"/>
