@@ -33,6 +33,8 @@ Technologies used:
 
 ### Thumbnails Generator
 
+https://github.com/tsciacqua1/proof-of-concept
+
 This is a serverless application that generates thumbnails from a source image. Also, this project focuses on the back-end, so don't pay attention carefully to the front-end.
 
 Technologies used:
